@@ -1,0 +1,55 @@
+Blocks
+     Storage blocks for all materials
+     Squidifier and budderfier (turn all Budder/squid blocks into own type, eg. Budder -> squid for squidifier)
+     Spinning wheel (turn wheat into string (or Budder with Rumplestiltskin))
+     Budder/squid accumulator (VERY slowly generates Budder/squid)
+     Duplicator (duplicates an item in return for 1 and a half of that item worth or derp)
+     Force/Derp-o-meter (detects force/derp)
+     Lots of butter equivalents of vanilla blocks
+
+Items
+     Dusts (squid AND Budder)
+          Charged (redstone)
+          Arcane (ender)
+          Nutritious (food)
+          Corrupt (squid + Budder)
+          Sky (SkyDoesMinecraft's reward for rescuing him)
+          Strengthened (iron)
+          Iridescent (glowstone)
+     Budder gem (Budder + diamond)
+     Lots of butter equivalents of vanilla items
+     Sky items
+          Tools
+          Weapons
+          Armour
+          Other awesome stuff
+     Ingots/nuggets for all dusts
+     Really expensive/OP stuff
+          ? Stone of Midas (maybe potion effect, will make anything you touch Budder (including MOBS!!!). If item, will be fuel consuming version and REALLY OP free version) (squid equivalent)
+     Diving gear
+     More Budder stuff (like tools and armour)
+
+Potions effects
+     ? Midas effect (see stone if Midas)
+     Gills potion (can breathe in water, but not normal air)
+     Air potion (can breathe in air, but not water (for use on squids))
+     Combination of gills and air potion (if normally breathe air, can only breathe water, and vice versa)
+
+Mechanics
+     Derp system (a bit like EMC from EquivalentExchange2, but less OP)
+     Force (budderness/squidness in an area)
+
+Dimensions
+     Budder dimension (starts with squid taint which you must cleanse
+     ? Squid dimension (you must budderfy it)
+
+Entities
+     SkyDoesMinecraft (found in squid dungeons in a cage) (once freed will disappear and leave a Sky item)
+     Rumplestiltskin (short testificate who spins wheat into gold)
+     Budder and squid equivalents of ALL mobs in game (like statues)
+     ??? BUDDERDRAGON (awesome)
+
+WorldGen
+     ???? Budder ores
+     Rumplestiltskin hut (with Rumplestiltskin and spinning wheel)
+     Squid dungeons which have squidifiers (tainters) and a SkyDoesMinecraft in a cage (generated in Budder dimension)
