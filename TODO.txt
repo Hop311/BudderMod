@@ -49,6 +49,7 @@ Mechanics
      Derp system (a bit like EMC from EquivalentExchange2, but less OP) (can be transported through pipes, and used to power stuff)
      Force (budderness/squidness in an area)
      Locking (using padlock to add loads of security functions to a tile entity block)
+     A sort of Internet system based on frequencies
 
 Dimensions
      Budder dimension (starts with squid taint which you must cleanse
