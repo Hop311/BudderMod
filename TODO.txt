@@ -6,6 +6,14 @@ Blocks
      Duplicator (duplicates an item in return for 1 and a half of that item worth or derp)
      Force/Derp-o-meter (detects force/derp)
      Lots of butter equivalents of vanilla blocks
+     Force field emitters (will be connectable and upgradable)
+     Force field block (the block for a force field) (transparent, and similar to a portal, but solid)
+     Computer (a bit like a ComputerCraft computer, but less coding and more fun orientated) (limited amount of data space)
+     Server (stores loads of data, but have to be linked to a computer to access data)
+     Aerials/satellite dishes (send/receive signals on a chosen frequency) (must be connected to server or computer)
+     Teleporter (uses derp as power) (can be arranged 1x1 or 2x2) (2x2 requires more power, but can go further and transport more)
+     Derp pipe/wire (different types for blocks/items, liquids, derp, or data from computers) (modes: extract, insert, simple, redirect, TELEPORT (requires derp))
+     Derp generator v1 (basicly an auto cobblestone generator, which uses picks) (gens 1 cobble worth of derp at the speed of the pick on cobble) (will be crafted with water and lava an other stuff)
 
 Items
      Dusts (squid AND Budder)
@@ -28,6 +36,8 @@ Items
           ? Stone of Midas (maybe potion effect, will make anything you touch Budder (including MOBS!!!). If item, will be fuel consuming version and REALLY OP free version) (squid equivalent)
      Diving gear
      More Budder stuff (like tools and armour)
+     Screwdriver (used to open computers/servers/aerials for upgrade/fixing)
+     Padlock (added to chests, machines, etc.) (allow locking, and even a system with different levels of owners with a good enough upgrade) (might not work with vanilla stuff)
 
 Potions effects
      ? Midas effect (see stone if Midas)
@@ -36,8 +46,9 @@ Potions effects
      Combination of gills and air potion (if normally breathe air, can only breathe water, and vice versa)
 
 Mechanics
-     Derp system (a bit like EMC from EquivalentExchange2, but less OP)
+     Derp system (a bit like EMC from EquivalentExchange2, but less OP) (can be transported through pipes, and used to power stuff)
      Force (budderness/squidness in an area)
+     Locking (using padlock to add loads of security functions to a tile entity block)
 
 Dimensions
      Budder dimension (starts with squid taint which you must cleanse
