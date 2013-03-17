@@ -1,7 +1,7 @@
 ##BudderMod
 =========
 
-A mod for Minecraft, based on [SkyDoesMinecraft](http://www.youtube.com/user/SkyDoesMinecraft)'s Budder and many various stories and legends (eg. The legend of Midas, the story of Rumplestiltskin, etc.).
+A mod for Minecraft, based on [SkyDoesMinecraft](http://www.youtube.com/user/SkyDoesMinecraft)'s Budder.
 
 ###Downloads
 =========
