@@ -14,6 +14,7 @@ Blocks
      Teleporter (uses derp as power) (can be arranged 1x1 or 2x2) (2x2 requires more power, but can go further and transport more)
      Derp pipe/wire (different types for blocks/items, liquids, derp, or data from computers) (modes: extract, insert, simple, redirect, TELEPORT (requires derp))
      Derp generator v1 (basicly an auto cobblestone generator, which uses picks) (gens 1 cobble worth of derp at the speed of the pick on cobble) (will be crafted with water and lava an other stuff)
+     Loads of space-age machines, eg tractor beam, space ships, etc.
 
 Items
      Dusts (squid AND Budder)
@@ -54,12 +55,14 @@ Mechanics
 Dimensions
      Budder dimension (starts with squid taint which you must cleanse
      ? Squid dimension (you must budderfy it)
+     SPACE DIMENSION
 
 Entities
      SkyDoesMinecraft (found in squid dungeons in a cage) (once freed will disappear and leave a Sky item)
      Rumplestiltskin (short testificate who spins wheat into gold)
      Budder and squid equivalents of ALL mobs in game (like statues)
      ??? BUDDERDRAGON (awesome)
+     Loads of sky/squid/Budder warriors/vehicles
 
 WorldGen
      ???? Budder ores
